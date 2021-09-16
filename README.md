@@ -4,7 +4,7 @@
 
 -   CNN에 word vector로 방향성과 문법에 따른 의미를 부여함.
 -   Max Pooling으로 최대의 학습효과를 기대하였다.
--   굉장히 얕은 Layer로 연산을 최소화 하였으나 좋은 연산능력을 보여주었다.
+
 
 ## Model
 ![image](https://user-images.githubusercontent.com/69898343/133611002-302c92e2-069e-457e-886b-208237df2689.png)
